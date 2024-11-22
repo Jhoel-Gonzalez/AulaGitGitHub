@@ -13,6 +13,7 @@ import androidx.core.view.WindowInsetsCompat
 
 class MainActivity : AppCompatActivity() {
 
+    val nome = "jhoel"
     val numero = 15
     val buttonPlus: Button by lazy {findViewById(R.id.buttonPlusLabel)}
     val buttonLess: Button by lazy {findViewById(R.id.buttonLessLabel)}
