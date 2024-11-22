@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">contdorDeCopos</string>
+    <string name="warning_text">Você já bebeu</string>
+    <string name="cup_counter">%s</string>
+    <string name="drinking_galsses">copos</string>
+    <string name="plus_label">+1 copo</string>
+    <string name="less_label">-1 copo</string>
+</resources>
